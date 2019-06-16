@@ -11,7 +11,7 @@ kramdown:
 highlighter: none
 paginate: 15
 language: 'en-uk'
-host_url: 'https://django.me'
+host_url: 'http://www.djangofreeman.com'
 
 # Website info
 name: '做人呢,最重要的是开心'
@@ -23,11 +23,11 @@ author: 'Django'
 nickname: django
 bio: 'JavaScript / Golang / Cocos'
 location: 'HangZhou, China'
-url: 'https://django.me'
+url: 'http://www.djangofreeman.com'
 img_url: 'https://img.django.me'
 image: 'assets/images/django.jpg'
 
-short_url: 'django.me'
+short_url: 'http://www.djangofreeman.com'
 google_analytics: UA-56898419-1
 disqus: django-d
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
