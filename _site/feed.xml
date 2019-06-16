@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>做人呢,最重要的是开心 - Articles</title>
+    <description>Django's Blog</description>
+    <link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>2019年 - 新的开始</title>
+        
+          <description>&lt;h2 id=&quot;持续更新-ing&quot;&gt;持续更新 Ing&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Wed, 27 Dec 2017 00:00:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/2019-summary</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-summary</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
