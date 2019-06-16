@@ -1,6 +1,6 @@
 var toc = $(".section-nav");
-var contentTop = $(".post-content").offset().top;
-var absoluteY = toc.offset().top;
+var contentTop = $(".post-content").offset() ? $(".post-content").offset().top : null;
+var absoluteY = toc.offset() ? toc.offset().top : null;
 
 //window.addEventListener('scroll', (e) => {
 //  const contentEle = document.querySelector('.post-content')
@@ -25,7 +25,7 @@ $(window).scroll(function (event) {
   // }
 });
 
-$(".section-nav a").click(function() {
+$(".section-nav a").click(function () {
   $("html, body").animate({
     scrollTop: $($(this).attr("href")).offset().top + "px"
   }, {
