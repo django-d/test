@@ -54,7 +54,7 @@ sass:
 safe: false
 lsi: false
 username: django-d
-repo: django-d.github.io
+repo: site
 branch: master
 # relative_source: ../jasper/
 # destination: ../jasper-pages/
