@@ -29,7 +29,7 @@ image: 'assets/images/django.jpg'
 
 short_url: 'django.me'
 google_analytics: UA-56898419-1
-disqus: django
+disqus: django-d
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
 
@@ -54,7 +54,7 @@ sass:
 safe: false
 lsi: false
 username: django-d
-repo: blog
+repo: django-d.github.io
 branch: master
 # relative_source: ../jasper/
 # destination: ../jasper-pages/
