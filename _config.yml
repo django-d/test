@@ -54,7 +54,7 @@ sass:
 safe: false
 lsi: false
 username: django-d
-repo: e2j
+repo: blog
 branch: master
 # relative_source: ../jasper/
 # destination: ../jasper-pages/
