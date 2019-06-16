@@ -11,25 +11,25 @@ kramdown:
 highlighter: none
 paginate: 15
 language: 'en-uk'
-host_url: 'https://draveness.me'
+host_url: 'https://django.me'
 
 # Website info
-name: '面向信仰编程'
-description: "Draveness's Blog"
+name: '做人呢,最重要的是开心'
+description: "Django's Blog"
 
 # Author's info
-author: 'Draveness'
+author: 'Django'
 # edit 'categories' in the front matter of every post to match this username
-nickname: draveness
-bio: 'Rails / Elixir / iOS'
-location: 'Beijing, China'
-url: 'https://draveness.me'
-img_url: 'https://img.draveness.me'
-image: 'assets/images/draven.png'
+nickname: django
+bio: 'JavaScript / Golang / Cocos'
+location: 'HangZhou, China'
+url: 'https://django.me'
+img_url: 'https://img.django.me'
+image: 'assets/images/django.jpg'
 
-short_url: 'draveness.me'
+short_url: 'django.me'
 google_analytics: UA-56898419-1
-disqus: draveness
+disqus: django
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
 
@@ -53,8 +53,8 @@ sass:
 
 safe: false
 lsi: false
-username: draveness
-repo: jekyll-blog
+username: django-d
+repo: e2j
 branch: master
 # relative_source: ../jasper/
 # destination: ../jasper-pages/
